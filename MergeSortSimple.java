@@ -24,7 +24,6 @@ public class MergeSortSimple {
         }
         //second half in arr2
         for(int i=0;i<arr2.length;i++){
-
             arr2[i] = arr[k];
             k++;
         }
